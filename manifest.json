@@ -13,7 +13,7 @@
   },
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "border-48.png"
   },
 
   "content_scripts": [
